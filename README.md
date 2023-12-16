@@ -1,4 +1,4 @@
-<h1 align='center'> Maximize Code Execution Speed </h1>
+<h1 align='center'> Optimize Taylor Series Expansion </h1>
 
 <h2 align='center'> Sharif University of Technology </h2>
 
