@@ -4,10 +4,11 @@
 
 <h3 align='center'> Electrical Engineering Department </h3>
 
+In this project, we want to calculate the Taylor series expansion of the exponential function.
 To increase the speed of code execution, I have written 3 different functions that optimize the speed respectively.
-- fx1 : In this function, I took the common denominator between the two terms, which will cause the calculations to be halved. I have also used multithreading and SIMD.
-- fx2 : In this function, I added loop unroll to the code.
-- fx3 : In this function, I used SIMD and multithreading in another way.
+- fx1: In this function, I took the common denominator between the two terms, which will cause the calculations to be halved. I have also used multithreading and SIMD.
+- fx2: In this function, I added loop unroll to the code.
+- fx3: In this function, I used SIMD and multithreading in another way.
 
 By performing the above actions, I was able to increase the code execution speed up to 80x.
 
